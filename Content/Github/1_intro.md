@@ -1,4 +1,4 @@
-# Portfolio opzetten (1h)
+# Portfolio opzetten (10h)
 
 Dit is de GitHub repository voor het thermodynamica deel van IP2.
 De bedoeling is dat je deze repository kloont en je vervolgens samen met je labpartner zelf een 'website / portfolio' bouwt op basis van jullie werk. 
