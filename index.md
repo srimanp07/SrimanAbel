@@ -8,12 +8,12 @@ site:
 
 <div style="text-align: center">
 
-# TN13015: Thermolab voor IP2
-
+# TN13015: Thermolab voor IP2 van Sriman en Abel
+# prachtig
 </div>
 
 ```{figure} Figures/Cover.jpg
-:width: 80%
+:width: 50%
 :align: center
 ```
 
